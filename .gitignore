@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Datos locales de la app (se generan al usarla)
+ajustes.ini
+yt-dlp_actualizado/
+ffmpeg.exe
+
+# Configuración local del editor / asistente
+.claude/
+.vscode/
+.idea/

@@ -1,0 +1,65 @@
+MIT License
+
+Copyright (c) 2026 Dreex
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+--------------------------------------------------------------------------------
+AVISO ADICIONAL / ADDITIONAL NOTICE
+--------------------------------------------------------------------------------
+
+[ES] Exención de responsabilidad sobre el contenido descargado
+
+Fluxio es una interfaz gráfica que utiliza herramientas de terceros (yt-dlp y
+FFmpeg, entre otras) para descargar y procesar contenido. El autor de Fluxio no
+aloja, distribuye ni controla ningún contenido descargado con el programa.
+
+Cada usuario es el único responsable del uso que haga de Fluxio y del contenido
+que descargue, convierta, recorte o comparta con él, así como de cumplir la
+legislación aplicable, los derechos de autor y los términos de uso de cada sitio
+web. El autor no se hace responsable de ningún uso indebido, ilícito o que
+infrinja derechos de terceros.
+
+[EN] Disclaimer regarding downloaded content
+
+Fluxio is a graphical interface built on third-party tools (yt-dlp and FFmpeg,
+among others) to download and process content. The author of Fluxio does not
+host, distribute or control any content downloaded with the program.
+
+Each user is solely responsible for how they use Fluxio and for any content they
+download, convert, trim or share with it, and for complying with applicable law,
+copyright and each website's terms of service. The author accepts no liability
+for any misuse, unlawful use or infringement of third-party rights.
+
+--------------------------------------------------------------------------------
+SOFTWARE DE TERCEROS / THIRD-PARTY SOFTWARE
+--------------------------------------------------------------------------------
+
+Esta licencia cubre únicamente el código propio de Fluxio. Las herramientas que
+utiliza pertenecen a sus autores y se rigen por sus propias licencias:
+
+  - yt-dlp ............ The Unlicense       https://github.com/yt-dlp/yt-dlp
+  - FFmpeg ............ LGPL / GPL          https://ffmpeg.org/legal.html
+  - imageio-ffmpeg .... BSD 2-Clause        https://github.com/imageio/imageio-ffmpeg
+                        (incluye compilaciones de FFmpeg con licencia GPL)
+  - Qt / PySide6 ...... LGPLv3              https://www.qt.io/licensing
+  - PyInstaller ....... GPL con excepción   https://pyinstaller.org/en/stable/license.html
+                        (solo para generar el .exe)
+
+Los nombres y marcas mencionados pertenecen a sus respectivos propietarios.
